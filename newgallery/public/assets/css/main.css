@@ -1,0 +1,19 @@
+img {
+	width: 200px;
+	height: 200px;
+}
+header img {
+	width: 80px;
+	height: 80px;
+}
+.albums {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.flex_item {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 2px 2px;
+}
